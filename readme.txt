@@ -245,17 +245,7 @@ Without a separate validation set for meta-learning, equal weighting is a safe d
 Why These Three Models?
 LightGBM, XGBoost, and CatBoost represent the state-of-the-art in gradient boosting, each with unique strengths. Together they provide robust coverage of the solution space.
 
-Contributing
-Contributions are welcome. Please focus on:
-
-Performance improvements
-Code optimization
-Documentation enhancements
-Additional feature engineering ideas
-
 
 License
 This project is available for educational and research purposes.
 
-Contact
-For questions or discussions about the implementation, please open an issue in the repository.
