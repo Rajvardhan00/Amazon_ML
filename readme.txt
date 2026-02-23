@@ -1,6 +1,6 @@
 Price Prediction Machine Learning Pipeline.
 
-Project Overview
+Project Overview:-
 This repository contains an optimized machine learning solution for predicting product prices using exclusively text-based features from product listings. The implementation leverages advanced feature engineering techniques and ensemble modeling to achieve robust performance without relying on image data.
 
 System Architecture
