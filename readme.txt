@@ -242,7 +242,7 @@ Why Log-Transform Prices?
 Prices often follow log-normal distributions. Log transformation normalizes the distribution and makes the prediction task easier for tree-based models.
 Why Equal Weighting in Ensemble?
 Without a separate validation set for meta-learning, equal weighting is a safe default that prevents overfitting to any single model's characteristics.
-Why These Three Models?
+Why These Three Models?:=
 LightGBM, XGBoost, and CatBoost represent the state-of-the-art in gradient boosting, each with unique strengths. Together they provide robust coverage of the solution space.
 
 
